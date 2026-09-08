@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Yousaf Abbas
+# 👋 Hi, I'm Allah Ditta
 
 ### 🚀 Full-Stack Developer | AI/ML Enthusiast | Crypto Trading Systems Architect
 
