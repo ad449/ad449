@@ -201,7 +201,7 @@ cd crypto-trading-signals
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-yousaf504378%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yousaf504378@gmail.com)
+[![Email](https://img.shields.io/badge/Email-aditta448%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditta448@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
