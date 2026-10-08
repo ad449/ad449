@@ -5,8 +5,6 @@
 ### 🚀 Full-Stack Developer | AI/ML Enthusiast | Crypto Trading Systems Architect
 
 [![GitHub followers](https://img.shields.io/github/followers/ad449?style=social)](https://github.com/ad449)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=google-chrome)](https://yourportfolio.com)
 
 </div>
 
@@ -62,84 +60,25 @@ I'm a passionate developer specializing in **AI-powered trading systems** and **
 
 ---
 
-## 🌟 Featured Project
+## 🚀 Featured Projects
 
-### 🎯 [AI-Powered Crypto Trading Signals Platform](https://github.com/ad449/crypto-trading-signals)
+### 🎬 [AI Video Generator — Urdu Historical Stories](https://github.com/ad449/ai-video-generator-urdu)
+Generate Urdu historical stories and turn them into videos with AI. Includes RTL support, multiple video-generation providers with automatic failover, and a responsive web interface.
 
-<div align="center">
+**Stack:** JavaScript, HTML, CSS, Vercel serverless functions
 
-![Project Banner](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-![Stars](https://img.shields.io/github/stars/ad449/crypto-trading-signals?style=for-the-badge)
+### 🧩 [Facebook Marketplace Browser Extensions](https://github.com/ad449/facebook-marketplace-extensions)
+A collection of five experimental Chrome/Chromium extensions for Marketplace listing workflows, including draft opening, location automation, and listing autofill.
 
-</div>
+**Stack:** JavaScript, Chrome Extensions Manifest V3
 
-**A sophisticated trading signals platform with AI-powered pattern recognition and real-time performance analytics.**
+### 💬 [Backend Chatbot](https://github.com/ad449/backend-chatbot)
+A Flask backend with authenticated chat and conversation APIs, a chatbot endpoint, and a medical-report analyzer that accepts manual values or PDF uploads.
 
-#### ✨ Key Features
+**Stack:** Python, Flask, REST APIs
 
-- 🤖 **Multi-Engine AI Analysis** - 5 specialized engines for comprehensive market analysis
-- 📊 **Real-Time Performance Dashboard** - Auto-refreshing analytics sidebar with live metrics
-- 🎯 **Pattern Recognition** - 24 patterns (16 candlestick + 8 chart patterns)
-- 📈 **70% Win Rate** - HIGH QUALITY mode with advanced filtering
-- 🖥️ **Desktop Application** - Beautiful Electron app with modern UI
-- 🔄 **Auto-Trading** - Copy trading integration with Binance/Bybit
-- 📊 **Railway PostgreSQL** - Cloud database with real-time signal tracking
-- ⚡ **Fast Performance** - 50 pairs scanned in parallel, sub-second response times
-
-#### 🛠️ Tech Stack
-
-```
-Backend:     FastAPI + Python 3.11
-Frontend:    Electron + Vanilla JS
-Database:    PostgreSQL (Railway)
-Analytics:   Custom tracking system with pattern analysis
-Trading:     CCXT for exchange integration
-Deployment:  Vercel + Railway
-```
-
-#### 📊 System Architecture
-
-```
-┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
-│  Desktop App    │────▶│  Backend API     │────▶│  Exchange APIs  │
-│  (Electron)     │     │  (FastAPI)       │     │  (Binance/CCXT) │
-└─────────────────┘     └──────────────────┘     └─────────────────┘
-         │                       │
-         │                       │
-         ▼                       ▼
-┌─────────────────┐     ┌──────────────────┐
-│  Analytics API  │────▶│  PostgreSQL DB   │
-│  (Performance)  │     │  (Railway)       │
-└─────────────────┘     └──────────────────┘
-```
-
-#### 🚀 Quick Start
-
-```bash
-# Clone the repository
-git clone https://github.com/ad449/crypto-trading-signals.git
-cd crypto-trading-signals
-
-# Start all services with ONE command!
-./start-all-services.sh
-```
-
-#### 📈 Results
-
-- **Win Rate:** 60-75% (HIGH QUALITY mode)
-- **Signals Tracked:** 1000+ signals analyzed
-- **Patterns Detected:** Real-time candlestick and chart pattern recognition
-- **Performance:** <100ms API response time with caching
-- **Uptime:** 99.9% with Railway PostgreSQL
-
-#### 🎥 Demo
-
-<div align="center">
-
-**[🔗 Live Demo](https://crypto-trading-signals.vercel.app)** | **[📖 Documentation](https://github.com/ad449/crypto-trading-signals#readme)**
-
-</div>
+### 📈 AI & Crypto Trading Systems
+I also work on algorithmic trading, market-signal analysis, and AI-assisted financial tools. See my public repositories for the projects currently available to explore.
 
 ---
 
@@ -202,9 +141,6 @@ cd crypto-trading-signals
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-aditta448%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aditta448@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 
 </div>
 
@@ -244,6 +180,6 @@ cd crypto-trading-signals
 
 <div align="center">
 
-*Last Updated: December 2024*
+*Last Updated: October 2026*
 
 </div>
